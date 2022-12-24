@@ -53,14 +53,14 @@ ___
 
 <img src="plus2.png"> Decision-making skills
 
-<img src="plus2.png""> Problem solving skills
+<img src="plus2.png"> Problem solving skills
 
-<img src="plus2.png""> Communication skills
+<img src="plus2.png"> Communication skills
 
-<img src="plus2.png""> Stress management
+<img src="plus2.png"> Stress management
 
-<img src="plus2.png""> Interpersonal skills
+<img src="plus2.png"> Interpersonal skills
 
-<img src="plus2.png""> Adaptability
+<img src="plus2.png"> Adaptability
 
-<img src="plus2.png""> Punctuality
+<img src="plus2.png"> Punctuality
