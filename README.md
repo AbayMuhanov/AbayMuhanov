@@ -51,29 +51,16 @@ ___
 ### Soft skills:
 <img src="plus2.png"> Time management skills
 
-<img src="./description_icon/plus2.png"> Decision-making skills
+<img src=""plus2.png"> Decision-making skills
 
-<img src="./description_icon/plus2.png"> Problem solving skills
+<img src=""plus2.png""> Problem solving skills
 
-<img src="./description_icon/plus2.png"> Communication skills
+<img src=""plus2.png""> Communication skills
 
-<img src="./description_icon/plus2.png"> Stress management
+<img src=""plus2.png""> Stress management
 
-<img src="./description_icon/plus2.png"> Interpersonal skills
+<img src=""plus2.png""> Interpersonal skills
 
-<img src="./description_icon/plus2.png"> Adaptability
+<img src=""plus2.png""> Adaptability
 
-<img src="./description_icon/plus2.png"> Punctuality
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src=""plus2.png""> Punctuality
