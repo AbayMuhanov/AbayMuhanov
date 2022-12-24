@@ -17,11 +17,11 @@ ___
 [![Jira](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/jira.png)](https://github.com/AbayMuhanov)
 ___
 ### Connect with me
-[![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/mukhtar-baitanatov-a03978121/)
+<!-- [![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/mukhtar-baitanatov-a03978121/)
 [![Twitter](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/twitter.png)](https://t.me/baimuhtar/)
 [![Instagram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/instagram.png)](https://www.instagram.com/baimuhtar/)
 [![Telegram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/telegram.png)](https://t.me/baimuhtar/)
-[![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)](https://www.facebook.com/mukhtar.baitanatov/)
+[![Facebook](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/facebook.png)](https://www.facebook.com/mukhtar.baitanatov/) -->
 
 
 ___
