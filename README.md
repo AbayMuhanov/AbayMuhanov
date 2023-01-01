@@ -17,7 +17,7 @@ ___
 [![Jira](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/jira.png)](https://github.com/AbayMuhanov)
 ___
 ### Connect with me
-<!-- [![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/mukhtar-baitanatov-a03978121/) -->
+[![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/abay-muhanov-40529a260)
 <!-- [![Twitter](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/twitter.png)](https://t.me/AbayMuhanov) -->
 [![Instagram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/instagram.png)](https://www.instagram.com/abay.muhanov_7182/?hl=ru/)
 [![Telegram](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/telegram.png)](https://t.me/AbayMuhanov/)
