@@ -11,10 +11,8 @@ ___
 [![CSS](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/css.png)](https://github.com/AbayMuhanov)
 [![GIT](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/git.png)](https://github.com/AbayMuhanov)
 [![PostgreSQL](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/postgre.png)](https://github.com/AbayMuhanov)
-[![MySQL](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/mysql.png)](https://github.com/AbayMuhanov)
-<!-- [![Linux](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/linux.png)](https://github.com/AbayMuhanov) -->
-<!-- [![Hibernate](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/hibernate.svg)](https://github.com/AbayMuhanov) -->
-<!-- [![Jira](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/jira.png)](https://github.com/AbayMuhanov) -->
+[![Hibernate](https://github.com/baimuhtar/baimuhtar/blob/main/tool_icons/hibernate.svg)](https://github.com/AbayMuhanov)
+
 ___
 ### Connect with me
 [![LinkedIn](https://github.com/baimuhtar/baimuhtar/blob/main/contact_icons/linkedin.png)](https://www.linkedin.com/in/abay-muhanov-40529a260)
