@@ -39,11 +39,11 @@ ___
 
 ![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of basic frontend technologies HTML, CSS.
 
-![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Creating queries in the database – PostgreSQL, MySQL
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Creating queries in the database – PostgreSQL
 
 ![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) Knowledge of the Git version control system (GitHub, Gitlab)
 
-![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) IntelliJ IDEA development environment, Visual Studio Code, DataGrip
+![plus](https://github.com/baimuhtar/baimuhtar/blob/main/description_icon/plus.png) IntelliJ IDEA development environment, DataGrip
 
 ### Soft skills:
 <img src="plus2.png"> Time management skills
